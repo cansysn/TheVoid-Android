@@ -5,7 +5,7 @@
   <br>
   <i>A performance tool designed to enhance your Sky: Children of the Light experience for Android device.</i>
 </p>
-<h4 align="center">Author: Soyu (Flexing)</h4>
+<h4 align="center">Author: Soyu (Flexing) & vithai 🌵</h4>
 
 <p align="center">
   <a href="https://github.com/cansysn/TheVoidSky/releases">
